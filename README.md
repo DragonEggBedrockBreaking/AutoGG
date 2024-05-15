@@ -1,8 +1,4 @@
-# AutoGG
-
-## Description
-
-Automatically says gg in chat when certain triggers are found.
+# AutoGG - Don't use this, use [AutoTechno](https://github.com/ZtereoHYPE/AutoTechno); this is only for reference purposes.
 
 ## License
 
